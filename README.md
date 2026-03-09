@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey, I'm Wirokk,<br>I'm a computer engineering graduate from Polytechnique Montréal. <br>I'm curious and always eager to learn new things.
+Hey, I'm Théo,<br>I'm a computer engineering graduate from Polytechnique Montréal. <br>I'm curious and always eager to learn new things.
 
 
 ## 🌐 Socials:
