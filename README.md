@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey, I'm Wirokk,<br>I'm a computer engineering graduate from Polytechnique Montréal with a specialization in cybersecurity.<br>I'm currently diving into deep learning, especially neural networks (MNIST), to better understand the foundations and internal mechanisms of LLMs.<br><br>My goal is to leverage my engineering skills and cybersecurity knowledge to work on security challenges in AI:<br><br>🔐 context engineering<br>🛡️ defense against prompt injections<br>🚫 rule bypassing and model robustness<br>🧠 securing AI systems used in companies<br><br>I'm curious and always eager to learn new things.
+Hey, I'm Wirokk,<br>I'm a computer engineering graduate from Polytechnique Montréal. <br>I'm curious and always eager to learn new things.
 
 
 ## 🌐 Socials:
